@@ -127,8 +127,3 @@ ul li span {
 ul li span:hover {
     background: #f9f9f9;
 }
-
-.fade {
-    opacity: 0;
-    transition: opacity 0.5s;
-}
